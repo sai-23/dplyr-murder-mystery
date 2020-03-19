@@ -3,7 +3,7 @@ SQL murder mystery modified for the tidyverse
 
 There's been a murder in the tidyverse! A crime has taken place and the detective needs your help. The detective gave you the crime scene report, but you somehow lost it. You vaguely remember that the crime was a **murder** that occurred sometime on **Jan.15, 2018** and that it took place in **dplyr City**. 
 
-Use the data sets included in `data` to figure out whodunnit!
+Use the data sets included in `data` to figure out whodunnit! You can load the data frames into R by typing `load("data/dplyr_murder_mystery.Rda")`
 
 This project is currently a clone of https://mystery.knightlab.com/, with **SQL City** changed to **dplyr City**, which itself was inspired by a murder in Terminal City https://github.com/veltman/clmystery. 
 
