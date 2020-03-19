@@ -5,7 +5,7 @@ There's been a murder in the tidyverse! A crime has taken place and the detectiv
 
 Use the data sets included in `data` to figure out whodunnit! You can load the data frames into R by typing `load("data/dplyr_murder_mystery.Rda")`
 
-This project is currently a clone of https://mystery.knightlab.com/, with **SQL City** changed to **dplyr City**, which itself was inspired by a murder in Terminal City https://github.com/veltman/clmystery. 
+This project started as a clone of https://mystery.knightlab.com/, with **SQL City** changed to **dplyr City**, which itself was inspired by a murder in Terminal City https://github.com/veltman/clmystery. 
 
 # Goals
 
