@@ -1,4 +1,3 @@
-#change
 # tidyverse-murder-mystery
 SQL murder mystery modified for the `tidyverse`
 
